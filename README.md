@@ -12,4 +12,6 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
   
   </p>
-  
+𝙥⃢𝙧𝙖𝙢⃪𝙚⃫⃡𝙨⃝𝙝  𝙣⃢𝙞𝙡𝙖𝙠𝙨⃜𝙝⃬𝙖⃝𝙣  
+</p>
+<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="600"/>
